@@ -1,4 +1,4 @@
-# Function for nth Fibonacci number
+#Write a Python Program for Fibonacci numbers.
 def Fibonacci(n):
 
 	# Check if input is 0 then it will
